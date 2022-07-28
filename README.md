@@ -2,7 +2,7 @@
    <img src="https://madefy.com.br/wp-content/themes/madefy/img/servicos/17.png" min-width="400px" max-width="400px"
     width="400px" align="right" alt="Computador iuriCode">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BN+Machine&color=20FFDF&background=76767600&lines=VERY+WELCOME+FOR+MY+GITHUB)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BN+Machine&color=20FFDF&background=76767600&lines=VERY+WELCOME+FOR+MY+GITHUB)](https://git.io/typing-svg)
 #
 Hi, my names is Gabriel. </br>
 I'm Web designer and Website developer. </br>

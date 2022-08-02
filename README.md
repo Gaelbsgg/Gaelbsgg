@@ -14,13 +14,13 @@ Front-end and Back-end student. <br>
 
 <h1>Social media:</h1>
 
-<div text-align="center">
+<div text-align="center" padding="20px">
     <img src='https://cdn-icons.flaticon.com/png/512/4644/premium/4644021.png?token=exp=1658513870~hmac=8184b853d22171fb53dd5ea3e2b67773' alt='github' height='30'>
-    <img src='https://cdn-icons-png.flaticon.com/512/1384/1384072.png' alt='linkedin' height='30'>
-    <img src='https://cdn-icons-png.flaticon.com/512/1384/1384073.png' alt='instagram' height='30'>
-    <img src='https://cdn-icons-png.flaticon.com/512/1384/1384075.png' alt='twitter' height='30'> 
-    <img src='https://cdn-icons-png.flaticon.com/512/1384/1384079.png' alt='whatsapp' height='30'>
-    <img src='https://cdn-icons-png.flaticon.com/512/5936/5936644.png' alt='codepen' height='30'>
+    &nbsp<img src='https://cdn-icons-png.flaticon.com/512/1384/1384072.png' alt='linkedin' height='30'>
+    &nbsp<img src='https://cdn-icons-png.flaticon.com/512/1384/1384073.png' alt='instagram' height='30'>
+    &nbsp<img src='https://cdn-icons-png.flaticon.com/512/1384/1384075.png' alt='twitter' height='30'>
+    &nbsp<img src='https://cdn-icons-png.flaticon.com/512/1384/1384079.png' alt='whatsapp' height='30'>
+    &nbsp<img src='https://cdn-icons-png.flaticon.com/512/5936/5936644.png' alt='codepen' height='30'>      
 </div>
 
 #

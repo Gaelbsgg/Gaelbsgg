@@ -9,13 +9,13 @@ I'm a web designer and website developer. <br>
 I am studying Systems Analysis and Development. <br>
 Front-end and back-end student. <br>
 
-<!--
+<!--  
 <di>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandersondefariasprogramador&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandersondefariasprogramador&layout=compact&theme=tokyonight"/>
 <di/>
   
-  
+
 vamos nos conectar:
  
   [![ Discord ](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/n9KBKHPA3H)

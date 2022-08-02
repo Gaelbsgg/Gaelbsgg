@@ -4,10 +4,10 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BN+Machine&color=20FFDF&background=76767600&lines=VERY+WELCOME+FOR+MY+GITHUB)](https://git.io/typing-svg)
 #
-Hi, my names is Gabriel. </br>
-I'm Web designer and Website developer. </br>
-Usualy i'm learn Analyst and Desenvolviment Systems. </br>
-Estudent for front-end and Back-end. </br>
+Hello my Name Is Gabriel. <br>
+I'm a web designer and website developer. <br>
+I am studying Systems Analysis and Development. <br>
+Front-end and back-end student. <br>
 
 <!--
 <di>
